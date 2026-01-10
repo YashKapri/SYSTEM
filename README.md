@@ -1,3 +1,4 @@
+We will continue it 
 # 🎥 Local GPU-Powered Video Intelligence Manager
 
 A **standalone, localhost-only system** that deeply analyzes videos using **GPU + high RAM** to generate **high-quality YouTube metadata** — similar in intent to Gemini, but fully **offline, private, and user-controlled**.
